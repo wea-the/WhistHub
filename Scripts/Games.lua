@@ -3,7 +3,7 @@
     PROPERTY AND OWNED BY CALHUB.
 ]]
 local games = {
-    [13833961666] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/wea-the/WhistHub/main/Scripts/Eternal-Bob.lua'))()"
+    [13833961666] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/wea-the/CalHub/main/Scripts/Eternal-Bob.lua'))()"
 }
 
 if games[game.PlaceId] ~= nil then
